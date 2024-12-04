@@ -39,7 +39,7 @@ Each day, a new puzzle is unlocked on the Advent of Code website. These puzzles 
 ## Holiday Image 🎨
 Once all puzzles are solved, the final holiday image from Advent of Code will appear below:
 
-![Holiday Image Placeholder](2024/image.jpg)
+![Holiday Image Placeholder](/image.jpg)
 
 ---
 
