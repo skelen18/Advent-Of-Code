@@ -43,9 +43,4 @@ Once all puzzles are solved, the final holiday image from Advent of Code will ap
 
 ---
 
-### Running the Code
-To test a solution for a specific day:
-1. Navigate to the folder for that day (`Day01`, `Day02`, etc.).
-2. Run the `solution.py` script using Python:
-   ```bash
-   python solution.py
+🎅 **Happy Coding and Happy Holidays!**
