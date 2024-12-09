@@ -13,7 +13,7 @@ This folder contains my solutions to the **Advent of Code 2024** challenges.
 | 🎁 06 | ✅ Completed | part2 is very very slow 💀 |
 | 🎁 07 | ✅ Completed | slow af 💀 (fix mby later) |
 | 🎁 08 | ✅ Completed | not optimal yet |
-| 🎁 09 | ❌ Pending   |   |
+| 🎁 09 | ✅ Completed |   |
 | 🎁 10 | ❌ Pending   |   |
 | 🎁 11 | ❌ Pending   |   |
 | 🎁 12 | ❌ Pending   |   |
