@@ -14,7 +14,7 @@ This folder contains my solutions to the **Advent of Code 2024** challenges.
 | 🎁 07 | ✅ Completed | slow af 💀 (fix mby later) |
 | 🎁 08 | ✅ Completed | not optimal yet |
 | 🎁 09 | ✅ Completed |   |
-| 🎁 10 | ❌ Pending   |   |
+| 🎁 10 | ✅ Completed |   |
 | 🎁 11 | ❌ Pending   |   |
 | 🎁 12 | ❌ Pending   |   |
 | 🎁 13 | ❌ Pending   |   |
@@ -31,7 +31,7 @@ This folder contains my solutions to the **Advent of Code 2024** challenges.
 | 🎁 24 | ❌ Pending   |   |
 | 🎁 25 | ❌ Pending   |   |
 
-As of **December 9th, 2024**, I have completed **9 out of 25 puzzles**.  
+As of **December 8th, 2024**, I have completed **8 out of 25 puzzles**.  
 
 ## How It Works
 Each day, a new puzzle is unlocked on the Advent of Code website. These puzzles include two parts, and solving both earns a star ⭐ for that day. Successfully completing all puzzles results in a complete holiday-themed image.
