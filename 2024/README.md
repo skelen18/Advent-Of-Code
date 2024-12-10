@@ -31,7 +31,7 @@ This folder contains my solutions to the **Advent of Code 2024** challenges.
 | 🎁 24 | ❌ Pending   |   |
 | 🎁 25 | ❌ Pending   |   |
 
-As of **December 10th, 2024**, I have completed *10 out of 25 puzzles**.  
+As of **December 8th, 2024**, I have completed **8 out of 25 puzzles**.  
 
 ## How It Works
 Each day, a new puzzle is unlocked on the Advent of Code website. These puzzles include two parts, and solving both earns a star ⭐ for that day. Successfully completing all puzzles results in a complete holiday-themed image.
