@@ -28,3 +28,5 @@ blinks = 25
 
 result = count_stones_after_blinks(input_stones, blinks)
 print("result:", result)
+
+#commit

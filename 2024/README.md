@@ -15,7 +15,7 @@ This folder contains my solutions to the **Advent of Code 2024** challenges.
 | 🎁 08 | ✅ Completed | not optimal yet |
 | 🎁 09 | ✅ Completed |   |
 | 🎁 10 | ✅ Completed |   |
-| 🎁 11 | ✅ Completed |   |
+| 🎁 11 | ✅ Completed | not optimal yet |
 | 🎁 12 | ❌ Pending   |   |
 | 🎁 13 | ❌ Pending   |   |
 | 🎁 14 | ❌ Pending   |   |
